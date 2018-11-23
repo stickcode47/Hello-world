@@ -1,2 +1,2 @@
 # Hello-world
-Just another repository
+Tacos are good on the moon
